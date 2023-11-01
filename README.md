@@ -25,7 +25,7 @@ The application provides a user interface where the user can enter a URL (Google
 You can install the necessary libraries via pip:
 ```bash
     pip install PySimpleGUI beautifulsoup4 requests
-
+```
 
 ## Usage
 

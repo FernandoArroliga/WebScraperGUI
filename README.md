@@ -29,12 +29,12 @@ You can install the necessary libraries via pip:
 
 ## Usage
 
-Clone or download the repository.
-Install the required dependencies.
-Run the Python script scraping_gui.py.
-Enter a Google News URL and specify the file name for the output.
-Click the "Scrap!" button to start the scraping process.
-The scraped headlines and links will be saved to a text file with the provided name.
+1. Clone or download the repository.
+2. Install the required dependencies.
+3. Run the Python script scraping_gui.py.
+4. Enter a Google News URL and specify the file name for the output.
+5. Click the "Scrap!" button to start the scraping process.
+6. The scraped headlines and links will be saved to a text file with the provided name.
 
 ## Contributing
 

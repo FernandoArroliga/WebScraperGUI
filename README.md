@@ -32,7 +32,7 @@ pip install PySimpleGUI beautifulsoup4 requests
 
 Clone or download the repository.
 Install the required dependencies.
-Run the Python script "scraping_gui.py".
+Run the Python script scraping_gui.py.
 Enter a Google News URL and specify the file name for the output.
 Click the "Scrap!" button to start the scraping process.
 The scraped headlines and links will be saved to a text file with the provided name.
